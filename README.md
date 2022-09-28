@@ -47,3 +47,7 @@ o projeto não esta responsivo a telas menores e contem alguns conceitos basicos
 </a>
 
 <a href="https://www.linkedin.com/in/lucas-logistica/" target="_blank">
+  <img align="center" alt="Lucas-Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
+</a>
+
+<a href="https://www.linkedin.com/in/lucas-logistica/" target="_blank">
